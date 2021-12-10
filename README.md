@@ -66,7 +66,7 @@
   > using Linear regression
   
 
-- Find the Seasonal index ** with two alternatives**
+- Find the Seasonal index with two alternatives
   
   > 1. Simple moving average
   >   
