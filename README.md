@@ -26,23 +26,23 @@
   
 ## The smoothing methods covers
 
-1. Moving Average method
+**1. Moving Average method**
   
   - Treat every past data the same weight
     
-2. Simple Exponential Smoothing
+**2. Simple Exponential Smoothing**
   
   - Treat every past data the given weights
     
-3. Holt Exponential Smoothing
+**3. Holt Exponential Smoothing**
   
   - +Trend
     
-4. Winter Exponential Smoothing
+**4. Winter Exponential Smoothing**
   
   - +Trend+Seasonal
     
-5. Decomposition Method
+**5. Decomposition Method**
   
   - Extract the seasonal + perform SLR
     
