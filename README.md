@@ -8,8 +8,9 @@
     <img src="https://i.ibb.co/JF2J4Dg/Webp-net-resizeimage-1.png">
   </a>
   <br>
-  ☝ click me ☝
+  ☝ click above ☝
 </div>
+<br>
 <div align="center">
   <a href="LICENSE">
     <img src="https://img.shields.io/github/license/marktext/marktext.svg" alt="LICENSE">
