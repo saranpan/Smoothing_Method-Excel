@@ -56,7 +56,7 @@
 
 ![](https://i.ibb.co/7SSLW9G/spacerepetition.png)
 
-2.  Extract the right initial level, trend and seasonal index
+<h4> 2.  Extract the right initial level, trend and seasonal index </h4>
 
 - Find the Initial Level and Trend
   
@@ -71,17 +71,17 @@
   >   
   
 
-3. Visualize the predicted value and actual value
+<h4> 3. Visualize the predicted value and actual value </h4>
 
 ![](https://i.ibb.co/jRJ7zCg/chart-1.png)
 
-#### 4. Evaluate the errors of the smoothing model
+<h4> 4. Evaluate the errors of the smoothing model </h4>
 
 with three criteria
 
 > 1. MAD
 >   
 > 2. MSE
->   
+>  
 > 3. MAPE (%)
 >
