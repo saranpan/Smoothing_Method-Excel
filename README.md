@@ -50,7 +50,7 @@
  
 # <u>Features</u>
 
-#### With optimizing the parameter (α,β,γ)
+####With optimizing the parameter (α,β,γ)
 
 > Using Numerical method
 
