@@ -23,7 +23,8 @@
     <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQobzg3sM1iRSzlUXaL37JCVg3eQgsBTwR_7RhYridTDOlHgPLr80E8QS7BrEJO8Rfe31JYoqI5a9M6/pubhtml">
       Website
     </a>
-    
+</div>    
+ 
  ## The smoothing methods covers
 
 1. Moving Average method
