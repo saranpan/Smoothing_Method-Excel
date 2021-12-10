@@ -50,13 +50,13 @@
  
 # <u>Features</u>
 
-#### 1. With optimizing the parameter (α,β,γ)
+#### With optimizing the parameter (α,β,γ)
 
 > Using Numerical method
 
 ![](https://i.ibb.co/7SSLW9G/spacerepetition.png)
 
-#### 2. Extract the right initial level, trend and seasonal index
+####  Extract the right initial level, trend and seasonal index
 
 - Find the Initial Level and Trend
   
