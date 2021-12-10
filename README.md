@@ -23,7 +23,7 @@
     </a>
 </div>    
  
-  
+---
 ## The smoothing methods covers
 
 **1. Moving Average method**
