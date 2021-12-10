@@ -31,23 +31,23 @@
 
 **1. Moving Average method**
   
-  - Treat every past data the same weight
+  > Treat every past data the same weight
     
 **2. Simple Exponential Smoothing**
   
-  - Treat every past data the given weights
+  > Treat every past data the given weights
     
 **3. Holt Exponential Smoothing**
   
-  - +Trend
+  > +Trend
     
 **4. Winter Exponential Smoothing**
   
-  - +Trend+Seasonal
+  > +Trend+Seasonal
     
 **5. Decomposition Method**
   
-  - Extract the seasonal + perform SLR
+  > Extract the seasonal + perform SLR
   
 ---
  
