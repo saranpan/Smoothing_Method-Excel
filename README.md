@@ -50,13 +50,13 @@
  
 # <u>Features</u>
 
-####With optimizing the parameter (α,β,γ)
+  <h4> 1. With optimizing the parameter (α,β,γ) </h4>
 
 > Using Numerical method
 
 ![](https://i.ibb.co/7SSLW9G/spacerepetition.png)
 
-####  Extract the right initial level, trend and seasonal index
+2.  Extract the right initial level, trend and seasonal index
 
 - Find the Initial Level and Trend
   
@@ -71,7 +71,7 @@
   >   
   
 
-#### 3. Visualize the predicted value and actual value
+3. Visualize the predicted value and actual value
 
 ![](https://i.ibb.co/jRJ7zCg/chart-1.png)
 
