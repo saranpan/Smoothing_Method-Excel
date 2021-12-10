@@ -45,4 +45,43 @@
 **5. Decomposition Method**
   
   - Extract the seasonal + perform SLR
-    
+  
+---
+ 
+# <u>Features</u>
+
+#### 1. With optimizing the parameter (α,β,γ)
+
+> Using Numerical method
+
+![](https://lh3.googleusercontent.com/2rjNa8E1__zQeMo7bbZEXLG9lDUR5Gn5hCdRyVZlbrZQ0_K2BSh0bYzM98h0ko-eeh1_qVHh05DG5hJ9gByMUgEyCBxWCFMkfpsa9ZHt6h3pVklidnsQqz7DBQH8rbMuwgIKdbYP5Q)
+
+#### 2. Extract the right initial level, trend and seasonal index
+
+- Find the Initial Level and Trend
+  
+  > using Linear regression
+  
+
+- Find the Seasonal index ** with two alternatives**
+  
+  > 1. Simple moving average
+  >   
+  > 2. Ratio to moving average
+  >   
+  
+
+#### 3. Visualize the predicted value and actual value
+
+![](https://i.ibb.co/jRJ7zCg/chart-1.png)
+
+#### 4. Evaluate the errors of the smoothing model
+
+with three criteria
+
+> 1. MAD
+>   
+> 2. MSE
+>   
+> 3. MAPE (%)
+>
