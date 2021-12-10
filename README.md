@@ -6,9 +6,8 @@
 <div align="center">
   <a href="https://docs.google.com/spreadsheets/d/1-p6qENxx2cYiG2ei4blhriPAAWAks4xqkcBQCYIEBR8/edit?usp=sharing">
     <img src="https://i.ibb.co/JF2J4Dg/Webp-net-resizeimage-1.png">
-    <br>
-     ☝ click me ☝
   </a>
+  ☝ click me ☝
 </div>
 <div align="center">
   <a href="LICENSE">
