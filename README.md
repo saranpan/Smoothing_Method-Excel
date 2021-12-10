@@ -14,8 +14,6 @@
   </a>
 </div>
 
-<div align="center">
-
 <br>
 
 <div align="center">
@@ -25,7 +23,8 @@
     </a>
 </div>    
  
- ## The smoothing methods covers
+  
+## The smoothing methods covers
 
 1. Moving Average method
   
