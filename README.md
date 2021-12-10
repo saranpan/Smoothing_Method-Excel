@@ -54,7 +54,7 @@
 
 > Using Numerical method
 
-![](https://lh3.googleusercontent.com/2rjNa8E1__zQeMo7bbZEXLG9lDUR5Gn5hCdRyVZlbrZQ0_K2BSh0bYzM98h0ko-eeh1_qVHh05DG5hJ9gByMUgEyCBxWCFMkfpsa9ZHt6h3pVklidnsQqz7DBQH8rbMuwgIKdbYP5Q)
+![](https://i.ibb.co/7SSLW9G/spacerepetition.png)
 
 #### 2. Extract the right initial level, trend and seasonal index
 
